@@ -40,12 +40,10 @@ NOTE: these two repos should be combined and the exercises curated more
 
 --------------------------------------------------------------------------------
 
-#### [Shipping Logic Puzzle](https://gist.github.com/oakmac/27cae1f44ee928e0be9649de64527a47)
+#### [Shipping Logic Puzzle](https://github.com/oakmac/shipping-packages-puzzle)
 
 Solve a challenging logic puzzle using JavaScript Arrays, Objects, and predicate
 functions.
-
-TODO: move from gist to repo
 
 --------------------------------------------------------------------------------
 
