@@ -82,3 +82,11 @@ Build a Login form using jQuery + AJAX. Teaches basic DOM interaction, AJAX
 - https://github.com/magentanova/js101
 - https://github.com/magentanova/js-functions-functional-practice-1
 - https://github.com/magentanova/js-functions-functional-practice-2
+
+--------------------------------------------------------------------------------
+
+This repo licensed as [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/):
+
+> You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+The various exercises linked above each have their own license; most are open source.
