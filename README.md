@@ -27,6 +27,8 @@ Fun, interactive games to help learn CSS selector syntax and flexbox positioning
 CSS layout exercises using flexbox. Students really enjoy the Mondrian challenge
 here.
 
+TODO: move from gist to repo
+
 --------------------------------------------------------------------------------
 
 #### [js201](https://github.com/oakmac/js201) and [js201-continued](https://github.com/oakmac/js201-continued)
@@ -42,6 +44,8 @@ NOTE: these two repos should be combined and the exercises curated more
 
 Solve a challenging logic puzzle using JavaScript Arrays, Objects, and predicate
 functions.
+
+TODO: move from gist to repo
 
 --------------------------------------------------------------------------------
 
