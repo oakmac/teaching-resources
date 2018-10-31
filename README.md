@@ -22,12 +22,10 @@ Fun, interactive games to help learn CSS selector syntax and flexbox positioning
 
 --------------------------------------------------------------------------------
 
-#### [CSS Layout Exercises](https://gist.github.com/oakmac/2e0bb5f885f71e55225c09912177b700)
+#### [CSS Layout Exercises](https://github.com/oakmac/flexbox-layout-exercises)
 
 CSS layout exercises using flexbox. Students really enjoy the Mondrian challenge
 here.
-
-TODO: move from gist to repo
 
 --------------------------------------------------------------------------------
 
