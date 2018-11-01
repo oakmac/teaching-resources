@@ -38,6 +38,13 @@ NOTE: these two repos should be combined and the exercises curated more
 
 --------------------------------------------------------------------------------
 
+#### [Introduction to AJAX](https://github.com/oakmac/intro-to-ajax)
+
+Teaches AJAX programming with `XMLHttpRequest`, jQuery, and the Fetch API.
+Assumes some basic JavaScript and DOM knowledge.
+
+--------------------------------------------------------------------------------
+
 #### [Shipping Logic Puzzle](https://github.com/oakmac/shipping-packages-puzzle)
 
 Solve a challenging logic puzzle using JavaScript Arrays, Objects, and predicate
