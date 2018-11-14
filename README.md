@@ -73,6 +73,15 @@ Build a Login form using jQuery + AJAX. Teaches basic DOM interaction, AJAX
 
 --------------------------------------------------------------------------------
 
+#### [Phase 1 Final Project](https://github.com/oakmac/phase1-final-project-requirements)
+
+Final project requirements for the end of "Phase 1". Intended for a group of 3-5
+students. Focus on HTML, CSS, JavaScript, APIs, AJAX, and using JavaScript libraries.
+Also requires a certain level of software quality and process: `README.md` file,
+Travis CI, deployment / hosting, PR review process, scrum stand-up meetings.
+
+--------------------------------------------------------------------------------
+
 #### TODO: catalog these
 
 - Color clock
