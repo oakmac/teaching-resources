@@ -82,6 +82,14 @@ Travis CI, deployment / hosting, PR review process, scrum stand-up meetings.
 
 --------------------------------------------------------------------------------
 
+#### [Phase 2 Backend Project Requirements](https://github.com/oakmac/phase2-backend-project-requirements)
+
+Backend project requirements for the end of "Phase 2". Intended for a group of
+3-5 students. Focus on backend technologies using Node.js, express.js,
+databases, forms, authentication, etc.
+
+--------------------------------------------------------------------------------
+
 #### TODO: catalog these
 
 - Color clock
