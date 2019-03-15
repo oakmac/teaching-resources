@@ -97,6 +97,12 @@ state in React using `props` and `state`.
 
 --------------------------------------------------------------------------------
 
+#### [Phase 3 React.js Project Requirements](https://github.com/oakmac/phase3-react-project-requirements)
+
+Requirements for a frontend project using React.js + Redux.
+
+--------------------------------------------------------------------------------
+
 #### TODO: catalog these
 
 - Color clock
