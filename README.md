@@ -103,6 +103,12 @@ Requirements for a frontend project using React.js + Redux.
 
 --------------------------------------------------------------------------------
 
+#### [Capstone Project Requirements](https://github.com/oakmac/flex-class-capstone-project-requirements)
+
+Requirements for the flex class capstone project. Build a full-stack web application.
+
+--------------------------------------------------------------------------------
+
 #### TODO: catalog these
 
 - Color clock
