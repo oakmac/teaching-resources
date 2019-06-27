@@ -10,6 +10,22 @@ Formerly at [The Iron Yard].
 
 --------------------------------------------------------------------------------
 
+#### [js101](https://github.com/oakmac/js101)
+
+JavaScript exercises designed to introduce JS syntax and language fundamentals.
+Students write Functions, Numbers, Strings, Arrays, and Objects in order to get
+a test suite to pass. There are no loops or "problem solving with code" in these
+exercises; just learning the language.
+
+--------------------------------------------------------------------------------
+
+#### [js201](https://github.com/oakmac/js201)
+
+JavaScript exercises using Functions, Arrays, Objects, and loops. Students work
+to get a test suite to pass, with regular feedback about their code.
+
+--------------------------------------------------------------------------------
+
 #### [git merge conflict](https://github.com/oakmac/merge-conflict-practice)
 
 Create and resolve a `git` merge conflict on the command line.
@@ -26,20 +42,6 @@ Fun, interactive games to help learn CSS selector syntax and flexbox positioning
 
 CSS layout exercises using flexbox. Students really enjoy the Mondrian challenge
 here.
-
---------------------------------------------------------------------------------
-
-#### [js201](https://github.com/oakmac/js201)
-
-JavaScript exercises using functions, Arrays, Objects, and loops. Students work
-to get a test suite to pass, with regular feedback about their code.
-
---------------------------------------------------------------------------------
-
-#### [Introduction to AJAX](https://github.com/oakmac/intro-to-ajax)
-
-Teaches AJAX programming with `XMLHttpRequest`, jQuery, and the Fetch API.
-Assumes some basic JavaScript and DOM knowledge.
 
 --------------------------------------------------------------------------------
 
@@ -64,10 +66,24 @@ browser events, template literals, and state management in JS.
 
 --------------------------------------------------------------------------------
 
+#### [Introduction to AJAX](https://github.com/oakmac/intro-to-ajax)
+
+Teaches AJAX programming with `XMLHttpRequest`, jQuery, and the Fetch API.
+Assumes some basic JavaScript and DOM knowledge.
+
+--------------------------------------------------------------------------------
+
 #### [jQuery Login Form](https://github.com/oakmac/jquery-login-form)
 
 Build a Login form using jQuery + AJAX. Teaches basic DOM interaction, AJAX
 (with error handling), JS state management, and following design requirements.
+
+--------------------------------------------------------------------------------
+
+#### [React State Examples](https://github.com/oakmac/react-state-examples)
+
+Some simple components that can be built using React. Teaches how to manage
+state in React using `props` and `state`.
 
 --------------------------------------------------------------------------------
 
@@ -85,13 +101,6 @@ Travis CI, deployment / hosting, PR review process, scrum stand-up meetings.
 Backend project requirements for the end of "Phase 2". Intended for a group of
 3-5 students. Focus on backend technologies using Node.js, express.js,
 databases, forms, authentication, etc.
-
---------------------------------------------------------------------------------
-
-#### [React State Examples](https://github.com/oakmac/react-state-examples)
-
-Some simple components that can be built using React. Teaches how to manage
-state in React using `props` and `state`.
 
 --------------------------------------------------------------------------------
 
@@ -116,7 +125,6 @@ Requirements for the flex class capstone project. Build a full-stack web applica
 - https://github.com/magentanova/introObjects
 - https://github.com/magentanova/loopsAndIterables
 - https://github.com/magentanova/loopsAndIterables2
-- https://github.com/magentanova/js101
 - https://github.com/magentanova/js-functions-functional-practice-1
 - https://github.com/magentanova/js-functions-functional-practice-2
 
