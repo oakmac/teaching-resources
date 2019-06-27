@@ -29,12 +29,10 @@ here.
 
 --------------------------------------------------------------------------------
 
-#### [js201](https://github.com/oakmac/js201) and [js201-continued](https://github.com/oakmac/js201-continued)
+#### [js201](https://github.com/oakmac/js201)
 
 JavaScript exercises using functions, Arrays, Objects, and loops. Students work
 to get a test suite to pass, with regular feedback about their code.
-
-NOTE: these two repos should be combined and the exercises curated more
 
 --------------------------------------------------------------------------------
 
