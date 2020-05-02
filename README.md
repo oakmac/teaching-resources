@@ -80,6 +80,13 @@ Build a Login form using jQuery + AJAX. Teaches basic DOM interaction, AJAX
 
 --------------------------------------------------------------------------------
 
+#### [Northwind SQL Questions](https://github.com/oakmac/northwind-sql-questions)
+
+Practice questions that can be answered using SQL JOIN statements. Uses the
+classic northwind database.
+
+--------------------------------------------------------------------------------
+
 #### [React State Examples](https://github.com/oakmac/react-state-examples)
 
 Some simple components that can be built using React. Teaches how to manage
